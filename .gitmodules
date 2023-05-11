@@ -1,0 +1,4 @@
+[submodule "Plugins/CinematicPlayer"]
+	path = Plugins/CinematicPlayer
+	url = git@github.com:ALEXGREENALEX/CinematicPlayer.git
+	branch = develop
