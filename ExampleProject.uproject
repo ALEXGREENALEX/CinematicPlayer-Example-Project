@@ -16,6 +16,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "CinematicPlayer",
+			"Enabled": true
+		},
+		{
 			"Name": "OpenImageDenoise",
 			"Enabled": false
 		}
