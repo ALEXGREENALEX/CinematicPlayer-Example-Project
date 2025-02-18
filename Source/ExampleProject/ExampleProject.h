@@ -1,4 +1,6 @@
+// Copyright 2023 - 2025 Olexandr Zelenskyi. All Rights Reserved.
+
 #pragma once
 
-#include "CoreMinimal.h"
+#include <CoreMinimal.h>
 
